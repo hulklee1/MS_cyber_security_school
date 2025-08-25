@@ -11,6 +11,6 @@ int main(void)
 //	printf("%d is my point \n", score);
 //	printf("Good \nmorning \neverybody\n");
 	printf("\n\nMy age : %d \n%d is my point \nGood \nmorning \neverybody\n", age, score);
-
+ 
 	return 0;
 }
